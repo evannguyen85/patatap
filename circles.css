@@ -1,0 +1,22 @@
+#myCanvas {
+    width: 100%;
+    background: black;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.message {
+    font-size: 14px;
+    text-align: center;
+    width: 30%;
+    margin: auto;
+    background-color: white;
+    position: absolute;
+    top: 50px;
+    left: 35%;
+    z-index: 10;
+    border-radius: 10px;
+}
